@@ -80,7 +80,7 @@ public class HomeworkArrays {
 //            }
 
             }
-//        System.out.println(specText);
+            System.out.println(specText);
 
 
         }
