@@ -75,7 +75,7 @@ public class HomeworkArrays {
         String specText = "";
         for (int i = 0; i < myNewArr.length; i++) {
             if (myNewArr[i] == specValue) {
-                System.out.println("We have an special value");
+                System.out.println("We have a special value");
 //                specText = "We have an special value";
 //            }
 
